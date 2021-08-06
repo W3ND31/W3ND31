@@ -1,6 +1,5 @@
-<h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
-</h1>
+![Wendel's GitHub Banner](./githubBanner.png)
+##
 
 ### Hi there 👋
 
@@ -12,14 +11,14 @@ A little about me:
 - 📚   Self-taught
 - ⚡   Fun fact: Driving Simulators is one of my hobbies.
 <br>
-	
+
+
 ### 📈 Stats 
- 
+
 [![Wendel github stats](https://github-readme-stats.vercel.app/api?username=w3nd31&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/w3nd31/github-readme-stats)
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w3nd31&layout=compact&langs_count=6&count_private=true&theme=gotham&hide=c%23)
-
 
 
 ### ⚡ Skills:
