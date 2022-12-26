@@ -7,7 +7,7 @@ A little about me:
 
 - :brazil:   Ananindeua-PA, **Brazil**.
 - 🔭   I’m currently working with **React JS** and **Typescript/Javascript**.
-- 🌱   I’m currently learning things related to **TDD** and **Responsive frontend**.
+- 🌱   I’m currently learning things related to **Flutter** and **Mobile development**.
 - 📚   Self-taught
 - ⚡   Fun fact: Driving Simulators is one of my hobbies.
 <br>
