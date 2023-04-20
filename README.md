@@ -6,8 +6,8 @@
 A little about me:
 
 - :brazil:   Ananindeua-PA, **Brazil**.
-- 🔭   I’m currently working with **React JS** and **Typescript/Javascript**.
-- 🌱   I’m currently learning things related to **Flutter** and **Mobile development**.
+- 🔭   I’m currently working with **Clojure** and **Flutter**.
+- 🌱   I’m currently learning things related to **Flutter** and **Clojure**.
 - 📚   Self-taught
 - ⚡   Fun fact: Driving Simulators is one of my hobbies.
 <br>
