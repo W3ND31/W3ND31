@@ -9,7 +9,7 @@ A little about me:
 - 🔭   I’m currently working with **Clojure** and **Flutter**.
 - 🌱   I’m currently learning things related to **Flutter** and **Clojure**.
 - 📚   Self-taught
-- ⚡   Fun fact: Driving Simulators is one of my hobbies.
+- ⚡   Fun fact: Driving Simulators is one of my hobbies. The 'Welcome!' image is a picture of a famous racing track on Germany called [Nürburgring](https://pt.wikipedia.org/wiki/N%C3%BCrburgring).
 <br>
 
 
