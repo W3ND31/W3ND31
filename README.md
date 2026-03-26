@@ -5,11 +5,11 @@
 
 A little about me:
 
-- :brazil:   Ananindeua-PA, **Brazil**.
+- :brazil:   Campinas-SP, **Brazil**.
 - 🔭   I’m currently working with **Clojure** and **Flutter**.
 - 🌱   I’m currently learning things related to **Flutter** and **Clojure**.
 - 📚   Self-taught
-- ⚡   Fun fact: Driving Simulators is one of my hobbies. The 'Welcome!' image is a picture of a famous racing track on Germany called [Nürburgring](https://pt.wikipedia.org/wiki/N%C3%BCrburgring).
+- ⚡   Fun fact: Driving simulators are one of my hobbies. The 'Welcome!' image is a picture of a famous racing track in Germany called [Nürburgring](https://pt.wikipedia.org/wiki/N%C3%BCrburgring).
 <br>
 
 
